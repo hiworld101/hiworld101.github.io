@@ -2,34 +2,33 @@
 
 ---
 
-### Clinical Prediction
+### Clinical Prediction Model Development (Master's Thesis)
 
-Analyzed 4 million primary care consultation records from patients in the Leiden/The Hague region to predict rheumatology referral within one year of consultation. Developed and compared multiple models, including logistic regression, decision tree, Cox model, random forest and random survival forest. Evaluated model performance from both statistical and clinical
-perspectives.
+Analyzed 4 million primary care consultation records from patients in the Leiden/The Hague region to predict rheumatology referral within one year of consultation. Developed and compared multiple models, including logistic regression, decision tree, Cox model, random forest and random survival forest. Evaluated model performance from both statistical and clinical perspectives.
 
 <img src="images/clinical.png?raw=true"/>
 
 ---
 
-### Python data engineering
+### Smart Home Data Pipeline and Analytics
 
-This project involves designing a Python-based data pipeline for ingesting, cleaning, storing, and analyzing smart home data collected from various devices. It is a collaborative group effort to apply data science and software engineering techniques on a real-world dataset from a home in Noordwijk, NL.
+This collaborative project developed a Python-based data pipeline for ingesting, cleaning, standardizing, and integrating 32 months of real-world smart home data collected from 30 devices in a household in Noordwijk. The data were stored in a SQLite database using SQLAlchemy, with command-line tools for automated ingestion, deduplication, and querying. Jupyter notebooks were used to analyze electricity and gas consumption patterns and device activity.
 
 <img src="images/python_de.png?raw=true"/>
 
 ---
 
-### Causal Effect
+### Causal Effect of Education on the Risk of Angina Pectoris
 
-This collaborative study investigated whether education affects the risk of angina pectoris using causal DAGs, logistic regression, and G-computation on observational Framingham data.
+This collaborative study investigated the causal effect of education on the risk of angina pectoris using observational data from the Framingham Heart Study. Causal DAGs were used to identify confounders, and the effect was estimated using logistic regression and g-computation.
 
 <img src="images/causal.png?raw=true"/>
 
 ---
 
-### Milk Powder
+### Classification of Milk Powder Mixtures
 
-This collaborative project used near-infrared spectroscopy, Savitzky–Golay filtering, PCA, and multiple classification methods to distinguish milk powder mixtures, with QDA achieving the best overall performance.
+This collaborative project classified 11 mixtures of milk powder and coconut milk powder using near-infrared spectroscopy data. A Savitzky–Golay filter was applied for smoothing and baseline correction, followed by PCA for dimensionality reduction. KNN, random forest, and QDA were compared using cross-validation and bootstrap resampling, with QDA achieving the highest average accuracy of 96.3%.
 
 <img src="images/milkp.png?raw=true"/>
 
