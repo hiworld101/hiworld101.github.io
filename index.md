@@ -23,7 +23,7 @@ This project involves designing a Python-based data pipeline for ingesting, clea
 
 This collaborative study investigated whether education affects the risk of angina pectoris using causal DAGs, logistic regression, and G-computation on observational Framingham data.
 
-<img src="images/DAG.png?raw=true"/>
+<img src="images/causal.png?raw=true"/>
 
 ---
 
@@ -33,19 +33,4 @@ This collaborative project used near-infrared spectroscopy, Savitzky–Golay fil
 
 <img src="images/milkp.png?raw=true"/>
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
 ---
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
